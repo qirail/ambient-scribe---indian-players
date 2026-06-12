@@ -1,0 +1,6 @@
+India ambient scribe and voice-to-discrete-data landscape scan,
+Prepared,2026-05-31
+Scope,"India-facing or India-relevant tools for ambient clinical documentation, voice-to-prescription, medical dictation, and voice-to-structured EMR/discrete data."
+Interpretation note,The sheet distinguishes true ambient encounter capture from single-speaker dictation/voice-to-prescription. Many products use 'AI scribe' as marketing language even when the public evidence only supports clinician dictation.
+Validation note,"Publicly available, independent clinical validation for Indian-language ambient scribing was generally not found. Vendor accuracy claims are recorded separately from independent validation."
+Language note,"A 'Yes' under a language means the public source explicitly supports it or, for English, it is inherent in the product output/website claims. 'Likely' means broad language claims without exact visible list. 'Not public' means no reliable public evidence found in this scan."
